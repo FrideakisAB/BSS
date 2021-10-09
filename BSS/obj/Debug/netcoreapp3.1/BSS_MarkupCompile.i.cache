@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Projects\BSS\BSS\App.xaml
-11407045341
+3-1221235682
 
-5643143767
+6369620999
 192-1533232326
-MainWindow.xaml;
+CustomerMenu.xaml;Dictionary.xaml;MainWindow.xaml;
 
-False
+True
 
